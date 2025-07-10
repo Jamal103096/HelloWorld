@@ -1,0 +1,14 @@
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/Brooks/Desktop/Repos/HelloWorld/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
